@@ -9,4 +9,4 @@ Criar um leque de perguntas
 Adicionar seus flashcars com uma pergunta na frente e uma resposta atrás.
 Navegar pelos cards e clicar para virá-los, testando seus conhecimentos.
 Créditos
-Desenvolvido por Aluno 2B
+Desenvolvido por Aluno 2B 
